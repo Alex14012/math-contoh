@@ -3,7 +3,7 @@ document.write("variable a = 6.6 <br>");
 let b = 2.4;
 document.write("variable a = 2.4 <br>"); 
 let c = -5.8;
-document.write("varible = -5.8 <br><br>");
+document.write("variable c = -5.8 <br><br>");
 
 let bulatkan = Math.round(a);
 let bulatkan1 = Math.round(b);
