@@ -38,9 +38,9 @@ document.write(`Math.ceil => a1 dibulatkan ke atas = ${ceil}, a2 dibulatkan ke a
 let pangkat = Math.pow(3, 2);
 let pangkat1 = Math.pow(5, 3);
 let pangkat2 = Math.pow(6, 2);
-document.write(`Math.pow => 3 pangkat 2 = ${pangkat},  5 pangkat 3 = ${pangkat1}, dan 6 pangkat 2 = ${pangkat2} <br><br>`);
+document.write(`Math.pow => hasil 3 pangkat 2 = ${pangkat},  hasil 5 pangkat 3 = ${pangkat1}, dan  hasil 6 pangkat 2 = ${pangkat2} <br><br>`);
 
 let akar = Math.sqrt(4);
 let akar1 = Math.sqrt(64);
 let akar2 = Math.sqrt(81);
-document.write(`Math.pow => akar 4 = ${akar}, akar 64 = ${akar1}, dan akar 81 = ${akar2} <br><br>`);
+document.write(`Math.pow => hasil akar 4 = ${akar}, hasil akar 64 = ${akar1}, dan hasil akar 81 = ${akar2} <br><br>`);
